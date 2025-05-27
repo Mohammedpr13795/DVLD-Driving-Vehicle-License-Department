@@ -1,0 +1,49 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\#04 Project Source Code and Database\#03 Project Source Code\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\#04 Project Source Code and Database\#03 Project Source Code\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\#04 Project Source Code and Database\#03 Project Source Code\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\#04 Project Source Code and Database\#03 Project Source Code\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\#04 Project Source Code and Database\#03 Project Source Code\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\#04 Project Source Code and Database\#03 Project Source Code\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\#04 Project Source Code and Database\#03 Project Source Code\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\#04 Project Source Code and Database\#03 Project Source Code\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\#04 Project Source Code and Database\#03 Project Source Code\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\msam1\source\repos\Projects\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\msam1\source\repos\Projects\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\msam1\source\repos\Projects\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\msam1\source\repos\Projects\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\msam1\source\repos\Projects\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\msam1\source\repos\Projects\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\msam1\source\repos\Projects\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\msam1\source\repos\Projects\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\msam1\source\repos\Projects\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\msam1\source\repos\Projects\DVLD Project Final 1\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\msam1\source\repos\Projects\DVLD Project Final 1\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\msam1\source\repos\Projects\DVLD Project Final 1\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\msam1\source\repos\Projects\DVLD Project Final 1\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\msam1\source\repos\Projects\DVLD Project Final 1\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\msam1\source\repos\Projects\DVLD Project Final 1\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\msam1\source\repos\Projects\DVLD Project Final 1\Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\msam1\source\repos\Projects\DVLD Project Final 1\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\msam1\source\repos\Projects\DVLD Project Final 1\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\Update Project\After Update\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\Update Project\After Update\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\Update Project\After Update\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+D:\Mohammed\Programming\programmingadvices\19 - Full Real Project\Update Project\After Update\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
